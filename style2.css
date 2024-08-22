@@ -1,0 +1,20 @@
+body{
+    background-color: lightblue;
+    color: black;
+}
+nav{
+    text-align: center;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+div {
+text-align: center;
+}
+
+
+div img{
+    width: 600;
+    height: 400px;
+}
